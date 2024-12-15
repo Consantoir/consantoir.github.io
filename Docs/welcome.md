@@ -1,3 +1,8 @@
+---
+label: Welcome
+layout: page
+order: 1000
+---
 # Conor's Favorite Recipes
 
 Welcome to Conor's Favorite Recipes!
