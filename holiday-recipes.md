@@ -1,8 +1,3 @@
----
-label: Holiday Meals
-layout: page
-order: 950
----
 # **Dairy-free Holiday Recipes**
 
 ==- Christmas Meal for Four
