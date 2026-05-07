@@ -1,4 +1,6 @@
 ﻿# consantoir.github.io
 
 - [consantoir.github.io](https://consantoir.github.io/readme.md): consantoir.github.io
-- [Dairy-free Holiday Recipes](https://consantoir.github.io/holiday-recipes.md): 1 large butternut squash, peeled and cubed
+- [Christmas Dinner](https://consantoir.github.io/christmas.md): A full Christmas feast — herb-seared beef tenderloin, all the sides, and two dessert options.
+- [Thanksgiving](https://consantoir.github.io/thanksgiving.md): A full Thanksgiving spread. All recipes are dairy-free, gluten-free, and soy-free. Includes a day-of cooking timeline for a 4:00 PM dinner.
+- [Crispy Parmesan–Panko Air Fryer Pork Chops](https://consantoir.github.io/pork-chops.md): Boneless, ¼-inch thick pork chops with a crispy golden parmesan-panko crust. Fast, foolproof, and packed with flavor.
