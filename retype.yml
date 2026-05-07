@@ -11,4 +11,4 @@ links:
   - text: Getting Started
     link: https://retype.com/guides/getting-started/
 footer:
-  copyright: "&copy; Copyright . All rights reserved."
+  copyright: "&copy; {{ year }} Conor Jeffries. All rights reserved."
