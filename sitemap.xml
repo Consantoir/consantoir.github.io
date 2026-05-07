@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://consantoir.github.io/</loc>
-    <lastmod>2026-05-06T18:56:28Z</lastmod>
+    <lastmod>2026-05-06T19:00:42Z</lastmod>
   </url>
   <url>
-    <loc>https://consantoir.github.io/christmas/</loc>
-    <lastmod>2026-05-06T18:56:28Z</lastmod>
+    <loc>https://consantoir.github.io/holiday-meals/</loc>
+    <lastmod>2026-05-06T19:00:42Z</lastmod>
   </url>
   <url>
-    <loc>https://consantoir.github.io/thanksgiving/</loc>
-    <lastmod>2026-05-06T18:56:28Z</lastmod>
+    <loc>https://consantoir.github.io/quick-dinners/</loc>
+    <lastmod>2026-05-06T19:00:42Z</lastmod>
   </url>
   <url>
-    <loc>https://consantoir.github.io/pork-chops/</loc>
-    <lastmod>2026-05-06T18:56:28Z</lastmod>
+    <loc>https://consantoir.github.io/holiday-meals/thanksgiving/</loc>
+    <lastmod>2026-05-06T19:00:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://consantoir.github.io/holiday-meals/christmas/</loc>
+    <lastmod>2026-05-06T19:00:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://consantoir.github.io/quick-dinners/pork-chops/</loc>
+    <lastmod>2026-05-06T19:00:42Z</lastmod>
   </url>
 </urlset>
