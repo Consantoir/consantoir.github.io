@@ -5,6 +5,7 @@
 - [Conor's Favorite Recipes](https://consantoir.github.io/welcome.md): Conor's Favorite Recipes
 - [Holiday Meals](https://consantoir.github.io/holiday-meals/index.md): Full holiday spreads built for the table — every dish planned, every recipe tested. All meals are dairy-free and gluten-free without sacrificing anything.
 - [Quick Dinners](https://consantoir.github.io/quick-dinners/index.md): Fast, satisfying meals that don't cut corners on flavor. Ready when you don't have time to fuss.
+- [Sides](https://consantoir.github.io/sides/index.md): Dishes that hold their own — whether alongside a main or as the whole spread.
 
 ## Holiday Meals
 
@@ -14,3 +15,9 @@
 ## Quick Dinners
 
 - [Crispy Parmesan–Panko Air Fryer Pork Chops](https://consantoir.github.io/quick-dinners/pork-chops.md): Boneless, ¼-inch thick pork chops with a crispy golden parmesan-panko crust. Fast, foolproof, and packed with flavor.
+
+## Sides
+
+- [Pickled Deviled Eggs with Candied Bacon Shards](https://consantoir.github.io/sides/deviled-eggs-candied-bacon.md): Beet-pickled deviled eggs topped with shards of brown sugar candied bacon. Start the eggs 3 days ahead — the bacon is made day-of.
+- [Esquites (Mexican Street Corn Salad)](https://consantoir.github.io/sides/esquites.md): The off-the-cob version of elotes — all the flavor, much easier to eat.
+- [Thai-Inspired Noodle Salad](https://consantoir.github.io/sides/thai-noodle-salad.md): Cold soba noodles in a punchy sesame-lime dressing with carrots and peanuts. Gets better the longer it sits.
