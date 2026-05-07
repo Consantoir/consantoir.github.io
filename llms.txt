@@ -1,5 +1,4 @@
 ﻿# consantoir.github.io
 
 - [consantoir.github.io](https://consantoir.github.io/readme.md): consantoir.github.io
-- [Conor's Favorite Recipes](https://consantoir.github.io/welcome.md): Welcome to Conor's Favorite Recipes!
 - [Dairy-free Holiday Recipes](https://consantoir.github.io/holiday-recipes.md): 1 large butternut squash, peeled and cubed
