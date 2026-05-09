@@ -4,20 +4,42 @@
 
 - [Conor's Favorite Recipes](https://consantoir.github.io/welcome.md): Conor's Favorite Recipes
 - [Holiday Meals](https://consantoir.github.io/holiday-meals/index.md): Full holiday spreads built for the table — every dish planned, every recipe tested. All meals are dairy-free and gluten-free without sacrificing anything.
+- [Mains](https://consantoir.github.io/mains/index.md): The centerpiece of the meal — steaks, pasta, stroganoff, and more.
 - [Quick Dinners](https://consantoir.github.io/quick-dinners/index.md): Fast, satisfying meals that don't cut corners on flavor. Ready when you don't have time to fuss.
+- [Soups](https://consantoir.github.io/soups/index.md): Warming, satisfying bowls — from weeknight easy to weekend worthy.
 - [Sides](https://consantoir.github.io/sides/index.md): Dishes that hold their own — whether alongside a main or as the whole spread.
+- [Drinks](https://consantoir.github.io/drinks/index.md): Recipes worth raising a glass to.
 
 ## Holiday Meals
 
 - [Christmas Dinner](https://consantoir.github.io/holiday-meals/christmas.md): A full Christmas feast — herb-seared beef tenderloin, all the sides, and two dessert options.
 - [Thanksgiving](https://consantoir.github.io/holiday-meals/thanksgiving.md): A full Thanksgiving spread. All recipes are dairy-free, gluten-free, and soy-free. Includes a day-of cooking timeline for a 4:00 PM dinner.
 
+## Mains
+
+- [Tri-Tip with Chimichurri](https://consantoir.github.io/mains/tri-tip-chimichurri.md): A bold, smoky spice-rubbed tri-tip paired with a bright, garlicky cilantro chimichurri. Grill or sear — either way this is a showstopper.
+- [Sous Vide Tri-Tip with Horseradish Cream Sauce](https://consantoir.github.io/mains/sous-vide-tri-tip.md): Vacuum-sealed tri-tip cooked low and slow at 131°F, finished with a hard sear, and served alongside roasted garlic parmesan potatoes and balsamic-glazed Brussels sprouts.
+- [Chef John's Classic Beef Stroganoff](https://consantoir.github.io/mains/beef-stroganoff.md): A fairly lean version of the classic — just enough sauce to coat every noodle. Call for more cream if it suits your taste. Satisfying and deeply savory.
+- [Lemon Ricotta Pasta](https://consantoir.github.io/mains/lemon-ricotta-pasta.md): Pasta made with spinach, garlic, shallot, lemon, and a simple creamy ricotta sauce. Serve with Parmesan cheese and fresh basil for the perfect pasta dinner.
+- [Pork Chops with Mustard Cream Sauce](https://consantoir.github.io/mains/pork-chops-mustard-cream.md): Diner staple done right — pan-seared pork chops finished in the oven and draped in a rich, tangy mustard cream sauce. Turns everyday pork chops into something special.
+- [Top Sirloin Steak with Garlic Balsamic Pan Sauce](https://consantoir.github.io/mains/sirloin-steak.md): A complete guide — marinade, pan sauce, and perfect searing technique — for a top sirloin that punches way above its price point.
+
 ## Quick Dinners
 
 - [Crispy Parmesan–Panko Air Fryer Pork Chops](https://consantoir.github.io/quick-dinners/pork-chops.md): Boneless, ¼-inch thick pork chops with a crispy golden parmesan-panko crust. Fast, foolproof, and packed with flavor.
+- [Crispy Ranch Chicken Tenders](https://consantoir.github.io/quick-dinners/ranch-chicken-tenders.md): Baked chicken tenders with a crunchy panko crust and punchy ranch flavor. Diabetic-friendly, Kosher, and low-fat — without skimping on crunch.
+
+## Soups
+
+- [Thai Pumpkin Soup with Coconut Milk](https://consantoir.github.io/soups/thai-pumpkin-soup.md): The ultimate winter warmer. Serve this fragrant soup with a swirl of coconut milk and fresh cilantro for a fantastic spiced vegan pumpkin soup.
+- [Instant Pot Butternut Squash Soup](https://consantoir.github.io/soups/butternut-squash-soup.md): Get the flavor of a slow-simmered squash soup in half the time using an Instant Pot.
 
 ## Sides
 
 - [Pickled Deviled Eggs with Candied Bacon Shards](https://consantoir.github.io/sides/deviled-eggs-candied-bacon.md): Beet-pickled deviled eggs topped with shards of brown sugar candied bacon. Start the eggs 3 days ahead — the bacon is made day-of.
 - [Esquites (Mexican Street Corn Salad)](https://consantoir.github.io/sides/esquites.md): The off-the-cob version of elotes — all the flavor, much easier to eat.
 - [Thai-Inspired Noodle Salad](https://consantoir.github.io/sides/thai-noodle-salad.md): Cold soba noodles in a punchy sesame-lime dressing with carrots and peanuts. Gets better the longer it sits.
+
+## Drinks
+
+- [Sous Vide Bloody Mary Vodka](https://consantoir.github.io/drinks/bloody-mary-vodka.md): Get all the flavors of a great Bloody Mary without mixers — infused right into the vodka. Pro tip: use high quality vodka.
