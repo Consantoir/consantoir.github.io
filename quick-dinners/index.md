@@ -14,3 +14,4 @@ Fast, satisfying meals that don't cut corners on flavor. Ready when you don't ha
 ## Recipes in This Section
 
 [!ref Air Fryer Pork Chops](pork-chops.md)
+[!ref Crispy Ranch Chicken Tenders](ranch-chicken-tenders.md)

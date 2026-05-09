@@ -1,6 +1,6 @@
 ---
 label: Sides
-order: 700
+order: 525
 icon: stack
 ---
 # Sides
